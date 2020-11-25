@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flop-n-pop-grid/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/flop-n-pop-grid/static/js/main.6237a4c3.chunk.js",
+    "main.js.map": "/flop-n-pop-grid/static/js/main.6237a4c3.chunk.js.map",
+    "runtime-main.js": "/flop-n-pop-grid/static/js/runtime-main.a5df961b.js",
+    "runtime-main.js.map": "/flop-n-pop-grid/static/js/runtime-main.a5df961b.js.map",
+    "static/js/2.43079bb7.chunk.js": "/flop-n-pop-grid/static/js/2.43079bb7.chunk.js",
+    "static/js/2.43079bb7.chunk.js.map": "/flop-n-pop-grid/static/js/2.43079bb7.chunk.js.map",
+    "static/js/3.31be6daf.chunk.js": "/flop-n-pop-grid/static/js/3.31be6daf.chunk.js",
+    "static/js/3.31be6daf.chunk.js.map": "/flop-n-pop-grid/static/js/3.31be6daf.chunk.js.map",
+    "index.html": "/flop-n-pop-grid/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/flop-n-pop-grid/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.43079bb7.chunk.js.LICENSE.txt": "/flop-n-pop-grid/static/js/2.43079bb7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flop-n-pop-grid/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5df961b.js",
+    "static/js/2.43079bb7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6237a4c3.chunk.js"
+  ]
+}
